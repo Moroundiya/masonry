@@ -229,6 +229,11 @@ blockquote,
     [class*=-block-quote] {
         padding-left: 40px !important
     }
+
+    .page_header a.logo img {
+        max-height: 35px;
+    }
+    
 }
 
 blockquote:before,
